@@ -40,3 +40,5 @@ Hangfire,Adopt,Frameworks & Tools,FALSE,
 <= .NET Framework 4.8,Hold,languages-and-frameworks,FALSE,
  <= .NET 5,Hold,languages-and-frameworks,FALSE,
 C# < 10,Hold,languages-and-frameworks,FALSE,
+Spec Flow,Assess,Frameworks & Tools,TRUE
+FluentAssertions,Assess,Frameworks & Tools,TRUE
