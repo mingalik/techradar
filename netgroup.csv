@@ -38,7 +38,7 @@ GraphQL,Assess,Frameworks & Tools,TRUE,
 Hangfire,Adopt,Frameworks & Tools,FALSE,
 ".NET 6, C# 10",Adopt,languages-and-frameworks,TRUE,
 <= .NET Framework 4.8,Hold,languages-and-frameworks,FALSE,
- <= .NET 5,Hold,languages-and-frameworks,FALSE,
+<= .NET 5,Hold,languages-and-frameworks,FALSE,
 C# < 10,Hold,languages-and-frameworks,FALSE,
 Spec Flow,Assess,Frameworks & Tools,TRUE
 FluentAssertions,Assess,Frameworks & Tools,TRUE
