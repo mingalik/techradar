@@ -42,4 +42,4 @@ Hangfire,Adopt,Frameworks & Tools,FALSE,
 C# < 10,Hold,languages-and-frameworks,FALSE,
 Spec Flow,Assess,Frameworks & Tools,TRUE,
 FluentAssertions,Assess,Frameworks & Tools,TRUE,
-Stryker,Assess,Frameworks & Tools,TRUE
+Stryker,Assess,Frameworks & Tools,TRUE,
